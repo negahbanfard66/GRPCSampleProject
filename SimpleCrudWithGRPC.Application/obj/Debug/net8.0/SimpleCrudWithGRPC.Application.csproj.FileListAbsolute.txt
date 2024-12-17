@@ -1,0 +1,15 @@
+D:\Documents_Downloads_Desktop\YoutubeProjects\GRPC\Project\SimpleCrudWithGRPC\SimpleCrudWithGRPC.Application\bin\Debug\net8.0\SimpleCrudWithGRPC.Application.deps.json
+D:\Documents_Downloads_Desktop\YoutubeProjects\GRPC\Project\SimpleCrudWithGRPC\SimpleCrudWithGRPC.Application\bin\Debug\net8.0\SimpleCrudWithGRPC.Application.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\GRPC\Project\SimpleCrudWithGRPC\SimpleCrudWithGRPC.Application\bin\Debug\net8.0\SimpleCrudWithGRPC.Application.pdb
+D:\Documents_Downloads_Desktop\YoutubeProjects\GRPC\Project\SimpleCrudWithGRPC\SimpleCrudWithGRPC.Application\obj\Debug\net8.0\SimpleCrudWithGRPC.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents_Downloads_Desktop\YoutubeProjects\GRPC\Project\SimpleCrudWithGRPC\SimpleCrudWithGRPC.Application\obj\Debug\net8.0\SimpleCrudWithGRPC.Application.AssemblyInfoInputs.cache
+D:\Documents_Downloads_Desktop\YoutubeProjects\GRPC\Project\SimpleCrudWithGRPC\SimpleCrudWithGRPC.Application\obj\Debug\net8.0\SimpleCrudWithGRPC.Application.AssemblyInfo.cs
+D:\Documents_Downloads_Desktop\YoutubeProjects\GRPC\Project\SimpleCrudWithGRPC\SimpleCrudWithGRPC.Application\obj\Debug\net8.0\SimpleCrudWithGRPC.Application.csproj.CoreCompileInputs.cache
+D:\Documents_Downloads_Desktop\YoutubeProjects\GRPC\Project\SimpleCrudWithGRPC\SimpleCrudWithGRPC.Application\obj\Debug\net8.0\SimpleCrudWithGRPC.Application.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\GRPC\Project\SimpleCrudWithGRPC\SimpleCrudWithGRPC.Application\obj\Debug\net8.0\refint\SimpleCrudWithGRPC.Application.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\GRPC\Project\SimpleCrudWithGRPC\SimpleCrudWithGRPC.Application\obj\Debug\net8.0\SimpleCrudWithGRPC.Application.pdb
+D:\Documents_Downloads_Desktop\YoutubeProjects\GRPC\Project\SimpleCrudWithGRPC\SimpleCrudWithGRPC.Application\obj\Debug\net8.0\ref\SimpleCrudWithGRPC.Application.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\GRPC\Project\SimpleCrudWithGRPC\SimpleCrudWithGRPC.Application\bin\Debug\net8.0\SimpleCrudWithGRPC.Core.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\GRPC\Project\SimpleCrudWithGRPC\SimpleCrudWithGRPC.Application\bin\Debug\net8.0\SimpleCrudWithGRPC.Core.pdb
+D:\Documents_Downloads_Desktop\YoutubeProjects\GRPC\Project\SimpleCrudWithGRPC\SimpleCrudWithGRPC.Application\obj\Debug\net8.0\SimpleCrudWithGRPC.Application.csproj.AssemblyReference.cache
+D:\Documents_Downloads_Desktop\YoutubeProjects\GRPC\Project\SimpleCrudWithGRPC\SimpleCrudWithGRPC.Application\obj\Debug\net8.0\SimpleCr.42B4E5E5.Up2Date

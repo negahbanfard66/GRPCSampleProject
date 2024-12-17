@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Wxv4nXMWUsCiaXwW95EVIlWxWajaWCQ3H1YVCjyyZCs=",
+  "Source": "SimpleCrudWithGRPC",
+  "BasePath": "_content/SimpleCrudWithGRPC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

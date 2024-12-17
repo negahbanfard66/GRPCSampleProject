@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\GRPC\\Project\\SimpleCrudWithGRPC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BE96160-ED12-4D52-B679-7FF11033CE63}|SimpleCrudWithGRPC\\SimpleCrudWithGRPC.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\grpc\\project\\simplecrudwithgrpc\\simplecrudwithgrpc\\services\\persongrpcservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BE96160-ED12-4D52-B679-7FF11033CE63}|SimpleCrudWithGRPC\\SimpleCrudWithGRPC.csproj|solutionrelative:simplecrudwithgrpc\\services\\persongrpcservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22B1D54-8E4E-4A3D-B430-DA9B32505956}|SimpleCrudWithGRPC.Application\\SimpleCrudWithGRPC.Application.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\grpc\\project\\simplecrudwithgrpc\\simplecrudwithgrpc.application\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22B1D54-8E4E-4A3D-B430-DA9B32505956}|SimpleCrudWithGRPC.Application\\SimpleCrudWithGRPC.Application.csproj|solutionrelative:simplecrudwithgrpc.application\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5197711-6740-4BEA-8818-802EAE00B109}|SimpleCrudWithGRPC.Infrastructure\\SimpleCrudWithGRPC.Infrastructure.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\grpc\\project\\simplecrudwithgrpc\\simplecrudwithgrpc.infrastructure\\repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5197711-6740-4BEA-8818-802EAE00B109}|SimpleCrudWithGRPC.Infrastructure\\SimpleCrudWithGRPC.Infrastructure.csproj|solutionrelative:simplecrudwithgrpc.infrastructure\\repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BE96160-ED12-4D52-B679-7FF11033CE63}|SimpleCrudWithGRPC\\SimpleCrudWithGRPC.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\grpc\\project\\simplecrudwithgrpc\\simplecrudwithgrpc\\protos\\personproto.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2BE96160-ED12-4D52-B679-7FF11033CE63}|SimpleCrudWithGRPC\\SimpleCrudWithGRPC.csproj|solutionrelative:simplecrudwithgrpc\\protos\\personproto.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BE96160-ED12-4D52-B679-7FF11033CE63}|SimpleCrudWithGRPC\\SimpleCrudWithGRPC.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\grpc\\project\\simplecrudwithgrpc\\simplecrudwithgrpc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2BE96160-ED12-4D52-B679-7FF11033CE63}|SimpleCrudWithGRPC\\SimpleCrudWithGRPC.csproj|solutionrelative:simplecrudwithgrpc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DF5A8B-AF91-4E75-8A24-EA3905E0FF77}|SimpleCrudWithGRPC.Core\\SimpleCrudWithGRPC.Core.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\grpc\\project\\simplecrudwithgrpc\\simplecrudwithgrpc.core\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78DF5A8B-AF91-4E75-8A24-EA3905E0FF77}|SimpleCrudWithGRPC.Core\\SimpleCrudWithGRPC.Core.csproj|solutionrelative:simplecrudwithgrpc.core\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22B1D54-8E4E-4A3D-B430-DA9B32505956}|SimpleCrudWithGRPC.Application\\SimpleCrudWithGRPC.Application.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\grpc\\project\\simplecrudwithgrpc\\simplecrudwithgrpc.application\\dtos\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22B1D54-8E4E-4A3D-B430-DA9B32505956}|SimpleCrudWithGRPC.Application\\SimpleCrudWithGRPC.Application.csproj|solutionrelative:simplecrudwithgrpc.application\\dtos\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BE96160-ED12-4D52-B679-7FF11033CE63}|SimpleCrudWithGRPC\\SimpleCrudWithGRPC.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\grpc\\project\\simplecrudwithgrpc\\simplecrudwithgrpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BE96160-ED12-4D52-B679-7FF11033CE63}|SimpleCrudWithGRPC\\SimpleCrudWithGRPC.csproj|solutionrelative:simplecrudwithgrpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BE96160-ED12-4D52-B679-7FF11033CE63}|SimpleCrudWithGRPC\\SimpleCrudWithGRPC.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\grpc\\project\\simplecrudwithgrpc\\simplecrudwithgrpc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2BE96160-ED12-4D52-B679-7FF11033CE63}|SimpleCrudWithGRPC\\SimpleCrudWithGRPC.csproj|solutionrelative:simplecrudwithgrpc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5197711-6740-4BEA-8818-802EAE00B109}|SimpleCrudWithGRPC.Infrastructure\\SimpleCrudWithGRPC.Infrastructure.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\grpc\\project\\simplecrudwithgrpc\\simplecrudwithgrpc.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5197711-6740-4BEA-8818-802EAE00B109}|SimpleCrudWithGRPC.Infrastructure\\SimpleCrudWithGRPC.Infrastructure.csproj|solutionrelative:simplecrudwithgrpc.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents_Downloads_Desktop\\YoutubeProjects\\GRPC\\Project\\SimpleCrudWithGRPC\\SimpleCrudWithGRPC\\obj\\Debug\\net8.0\\Protos\\PersonService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SimpleCrudWithGRPC\\obj\\Debug\\net8.0\\Protos\\PersonService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22B1D54-8E4E-4A3D-B430-DA9B32505956}|SimpleCrudWithGRPC.Application\\SimpleCrudWithGRPC.Application.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\grpc\\project\\simplecrudwithgrpc\\simplecrudwithgrpc.application\\validators\\personvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22B1D54-8E4E-4A3D-B430-DA9B32505956}|SimpleCrudWithGRPC.Application\\SimpleCrudWithGRPC.Application.csproj|solutionrelative:simplecrudwithgrpc.application\\validators\\personvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22B1D54-8E4E-4A3D-B430-DA9B32505956}|SimpleCrudWithGRPC.Application\\SimpleCrudWithGRPC.Application.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\grpc\\project\\simplecrudwithgrpc\\simplecrudwithgrpc.application\\iservices\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22B1D54-8E4E-4A3D-B430-DA9B32505956}|SimpleCrudWithGRPC.Application\\SimpleCrudWithGRPC.Application.csproj|solutionrelative:simplecrudwithgrpc.application\\iservices\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents_Downloads_Desktop\\YoutubeProjects\\GRPC\\Project\\SimpleCrudWithGRPC\\SimpleCrudWithGRPC\\obj\\Debug\\net8.0\\Protos\\Greet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SimpleCrudWithGRPC\\obj\\Debug\\net8.0\\Protos\\Greet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DF5A8B-AF91-4E75-8A24-EA3905E0FF77}|SimpleCrudWithGRPC.Core\\SimpleCrudWithGRPC.Core.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\grpc\\project\\simplecrudwithgrpc\\simplecrudwithgrpc.core\\irepositories\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78DF5A8B-AF91-4E75-8A24-EA3905E0FF77}|SimpleCrudWithGRPC.Core\\SimpleCrudWithGRPC.Core.csproj|solutionrelative:simplecrudwithgrpc.core\\irepositories\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ebe3f1d5-feac-4131-bf03-0e85ffb89a89}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "personproto.proto",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\GRPC\\Project\\SimpleCrudWithGRPC\\SimpleCrudWithGRPC\\Protos\\personproto.proto",
+              "RelativeDocumentMoniker": "SimpleCrudWithGRPC\\Protos\\personproto.proto",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\GRPC\\Project\\SimpleCrudWithGRPC\\SimpleCrudWithGRPC\\Protos\\personproto.proto",
+              "RelativeToolTip": "SimpleCrudWithGRPC\\Protos\\personproto.proto",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-12-16T19:45:00.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\GRPC\\Project\\SimpleCrudWithGRPC\\SimpleCrudWithGRPC\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleCrudWithGRPC\\Program.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\GRPC\\Project\\SimpleCrudWithGRPC\\SimpleCrudWithGRPC\\Program.cs",
+              "RelativeToolTip": "SimpleCrudWithGRPC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:45:40.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\GRPC\\Project\\SimpleCrudWithGRPC\\SimpleCrudWithGRPC.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SimpleCrudWithGRPC.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\GRPC\\Project\\SimpleCrudWithGRPC\\SimpleCrudWithGRPC.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SimpleCrudWithGRPC.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:12:37.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\GRPC\\Project\\SimpleCrudWithGRPC\\SimpleCrudWithGRPC.Core\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "SimpleCrudWithGRPC.Core\\Entities\\Person.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\GRPC\\Project\\SimpleCrudWithGRPC\\SimpleCrudWithGRPC.Core\\Entities\\Person.cs",
+              "RelativeToolTip": "SimpleCrudWithGRPC.Core\\Entities\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:11:28.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonDto.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\GRPC\\Project\\SimpleCrudWithGRPC\\SimpleCrudWithGRPC.Application\\DTOs\\PersonDto.cs",
+              "RelativeDocumentMoniker": "SimpleCrudWithGRPC.Application\\DTOs\\PersonDto.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\GRPC\\Project\\SimpleCrudWithGRPC\\SimpleCrudWithGRPC.Application\\DTOs\\PersonDto.cs",
+              "RelativeToolTip": "SimpleCrudWithGRPC.Application\\DTOs\\PersonDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:14:37.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\GRPC\\Project\\SimpleCrudWithGRPC\\SimpleCrudWithGRPC.Application\\Services\\PersonService.cs",
+              "RelativeDocumentMoniker": "SimpleCrudWithGRPC.Application\\Services\\PersonService.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\GRPC\\Project\\SimpleCrudWithGRPC\\SimpleCrudWithGRPC.Application\\Services\\PersonService.cs",
+              "RelativeToolTip": "SimpleCrudWithGRPC.Application\\Services\\PersonService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAMwBsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T20:43:46.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonGrpcService .cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\GRPC\\Project\\SimpleCrudWithGRPC\\SimpleCrudWithGRPC\\Services\\PersonGrpcService .cs",
+              "RelativeDocumentMoniker": "SimpleCrudWithGRPC\\Services\\PersonGrpcService .cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\GRPC\\Project\\SimpleCrudWithGRPC\\SimpleCrudWithGRPC\\Services\\PersonGrpcService .cs",
+              "RelativeToolTip": "SimpleCrudWithGRPC\\Services\\PersonGrpcService .cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:46:04.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\GRPC\\Project\\SimpleCrudWithGRPC\\SimpleCrudWithGRPC\\appsettings.json",
+              "RelativeDocumentMoniker": "SimpleCrudWithGRPC\\appsettings.json",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\GRPC\\Project\\SimpleCrudWithGRPC\\SimpleCrudWithGRPC\\appsettings.json",
+              "RelativeToolTip": "SimpleCrudWithGRPC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-01T18:13:18.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\GRPC\\Project\\SimpleCrudWithGRPC\\SimpleCrudWithGRPC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SimpleCrudWithGRPC\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\GRPC\\Project\\SimpleCrudWithGRPC\\SimpleCrudWithGRPC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SimpleCrudWithGRPC\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T15:56:39.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\GRPC\\Project\\SimpleCrudWithGRPC\\SimpleCrudWithGRPC.Infrastructure\\Repositories\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "SimpleCrudWithGRPC.Infrastructure\\Repositories\\PersonRepository.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\GRPC\\Project\\SimpleCrudWithGRPC\\SimpleCrudWithGRPC.Infrastructure\\Repositories\\PersonRepository.cs",
+              "RelativeToolTip": "SimpleCrudWithGRPC.Infrastructure\\Repositories\\PersonRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAawBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T20:45:24.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\GRPC\\Project\\SimpleCrudWithGRPC\\SimpleCrudWithGRPC\\obj\\Debug\\net8.0\\Protos\\PersonService.cs",
+              "RelativeDocumentMoniker": "SimpleCrudWithGRPC\\obj\\Debug\\net8.0\\Protos\\PersonService.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\GRPC\\Project\\SimpleCrudWithGRPC\\SimpleCrudWithGRPC\\obj\\Debug\\net8.0\\Protos\\PersonService.cs",
+              "RelativeToolTip": "SimpleCrudWithGRPC\\obj\\Debug\\net8.0\\Protos\\PersonService.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:30:37.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PersonValidator.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\GRPC\\Project\\SimpleCrudWithGRPC\\SimpleCrudWithGRPC.Application\\Validators\\PersonValidator.cs",
+              "RelativeDocumentMoniker": "SimpleCrudWithGRPC.Application\\Validators\\PersonValidator.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\GRPC\\Project\\SimpleCrudWithGRPC\\SimpleCrudWithGRPC.Application\\Validators\\PersonValidator.cs",
+              "RelativeToolTip": "SimpleCrudWithGRPC.Application\\Validators\\PersonValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:15:28.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IPersonRepository.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\GRPC\\Project\\SimpleCrudWithGRPC\\SimpleCrudWithGRPC.Core\\IRepositories\\IPersonRepository.cs",
+              "RelativeDocumentMoniker": "SimpleCrudWithGRPC.Core\\IRepositories\\IPersonRepository.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\GRPC\\Project\\SimpleCrudWithGRPC\\SimpleCrudWithGRPC.Core\\IRepositories\\IPersonRepository.cs",
+              "RelativeToolTip": "SimpleCrudWithGRPC.Core\\IRepositories\\IPersonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:28:39.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPersonService.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\GRPC\\Project\\SimpleCrudWithGRPC\\SimpleCrudWithGRPC.Application\\IServices\\IPersonService.cs",
+              "RelativeDocumentMoniker": "SimpleCrudWithGRPC.Application\\IServices\\IPersonService.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\GRPC\\Project\\SimpleCrudWithGRPC\\SimpleCrudWithGRPC.Application\\IServices\\IPersonService.cs",
+              "RelativeToolTip": "SimpleCrudWithGRPC.Application\\IServices\\IPersonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:29:31.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Greet.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\GRPC\\Project\\SimpleCrudWithGRPC\\SimpleCrudWithGRPC\\obj\\Debug\\net8.0\\Protos\\Greet.cs",
+              "RelativeDocumentMoniker": "SimpleCrudWithGRPC\\obj\\Debug\\net8.0\\Protos\\Greet.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\GRPC\\Project\\SimpleCrudWithGRPC\\SimpleCrudWithGRPC\\obj\\Debug\\net8.0\\Protos\\Greet.cs",
+              "RelativeToolTip": "SimpleCrudWithGRPC\\obj\\Debug\\net8.0\\Protos\\Greet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:45:33.997Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
